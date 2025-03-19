@@ -123,6 +123,8 @@ terraform show [options] [file]
 | ` <plan-file>` | แสดงรายละเอียดของแผน (`.tfplan`) ที่ถูกบันทึกจาก `terraform plan -out=<file>` |
 | ` -json` | แสดงผลลัพธ์ในรูปแบบ JSON ซึ่งเหมาะสำหรับการใช้งานร่วมกับระบบอัตโนมัติ (Automation) |
 
+<br>
+
 ## Terraform `state` Command [#Reference](https://developer.hashicorp.com/terraform/cli/commands/state)
 
 `terraform state` เป็นชุดคำสั่งที่ใช้สำหรับจัดการ **Terraform State File (`terraform.tfstate`)** ซึ่งช่วยให้สามารถดู, แก้ไข, ย้าย หรือแม้แต่ลบทรัพยากรใน State ได้โดยไม่ต้องเปลี่ยนโค้ด Terraform Configuration (`.tf` files)
