@@ -181,6 +181,7 @@ terraform fmt [options]
 | `-check` | ตรวจสอบว่าไฟล์ `.tf` เป็นไปตามมาตรฐานหรือไม่ (หากไม่ตรง จะคืนค่า error) |
 
 <br>
+
 ## Terraform `workspace` Command [#Reference](https://developer.hashicorp.com/terraform/cli/commands/workspace)
 
 `terraform workspace` เป็นคำสั่งที่ใช้สำหรับ **จัดการ Workspaces** ใน Terraform ซึ่งช่วยให้สามารถแยก State File สำหรับแต่ละ Environment (เช่น `dev`, `staging`, `prod`) โดยใช้โค้ดเดียวกัน
