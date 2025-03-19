@@ -1,4 +1,4 @@
-## Teleform Command Line Interface 
+## Terraform Command Line Interface 
 
 
 
@@ -9,7 +9,7 @@
 
 <br>
 
-### คำสั่งที่สำคัญที่ใช้บ่อยใน Teleform Command Line
+### คำสั่งที่สำคัญที่ใช้บ่อยใน Terraform Command Line
 
 | คำสั่ง                |	 คำอธิบาย                                      |
 | ------------------- |	 ------------------------------------------  |
